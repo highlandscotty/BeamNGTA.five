@@ -14,7 +14,7 @@ Nothing of Rockstar's is in this repository. The character is drawn live by your
 
 ## What you need
 
-- **GTA V** (Legacy, DirectX 11), story mode. **Never go online with any of this installed.**
+- **GTA V** (Enhanced, DirectX 12), story mode. **Never go online with any of this installed.**
 - **BeamNG.drive** (made on 0.39).
 - **Script Hook V** and **Script Hook V .NET** (v3) in the GTA folder.
 - **ReShade with full add-on support** installed into both games (made on 6.8).
@@ -52,6 +52,8 @@ Then:
 | Right mouse, left mouse | aim, fire |
 
 Shots land in BeamNG: a streak from the gun, a mark where they hit, a small push on the car, windows break, tires go flat.
+
+If traffic is present, shooting at cars will cause them to flee; and police will pursue the player.
 
 ## Settings
 
