@@ -1,0 +1,354 @@
+{
+  "gtaHole0": {
+    "name": "gtaHole0",
+    "mapTo": "gtaHole0",
+    "class": "Material",
+    "persistentId": "7c1f6a52-5b0e-4a63-9f3b-0d2a7e4c9200",
+    "version": 1.5,
+    "translucent": false,
+    "doubleSided": true,
+    "castShadows": false,
+    "Stages": [
+      {
+        "baseColorMap": "/art/shapes/gtaBridge/hole0.png",
+        "roughnessFactor": 0.9,
+        "metallicFactor": 0.0
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaTest": false,
+    "alphaRef": 90
+  },
+  "gtaHole1": {
+    "name": "gtaHole1",
+    "mapTo": "gtaHole1",
+    "class": "Material",
+    "persistentId": "7c1f6a52-5b0e-4a63-9f3b-0d2a7e4c9201",
+    "version": 1.5,
+    "translucent": false,
+    "doubleSided": true,
+    "castShadows": false,
+    "Stages": [
+      {
+        "baseColorMap": "/art/shapes/gtaBridge/hole1.png",
+        "roughnessFactor": 0.9,
+        "metallicFactor": 0.0
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaTest": false,
+    "alphaRef": 90
+  },
+  "gtaHole2": {
+    "name": "gtaHole2",
+    "mapTo": "gtaHole2",
+    "class": "Material",
+    "persistentId": "7c1f6a52-5b0e-4a63-9f3b-0d2a7e4c9202",
+    "version": 1.5,
+    "translucent": false,
+    "doubleSided": true,
+    "castShadows": false,
+    "Stages": [
+      {
+        "baseColorMap": "/art/shapes/gtaBridge/hole2.png",
+        "roughnessFactor": 0.9,
+        "metallicFactor": 0.0
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaTest": false,
+    "alphaRef": 90
+  },
+  "gtaHole3": {
+    "name": "gtaHole3",
+    "mapTo": "gtaHole3",
+    "class": "Material",
+    "persistentId": "7c1f6a52-5b0e-4a63-9f3b-0d2a7e4c9203",
+    "version": 1.5,
+    "translucent": false,
+    "doubleSided": true,
+    "castShadows": false,
+    "Stages": [
+      {
+        "baseColorMap": "/art/shapes/gtaBridge/hole3.png",
+        "roughnessFactor": 0.9,
+        "metallicFactor": 0.0
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaTest": false,
+    "alphaRef": 90
+  },
+  "gtaHole4": {
+    "name": "gtaHole4",
+    "mapTo": "gtaHole4",
+    "class": "Material",
+    "persistentId": "7c1f6a52-5b0e-4a63-9f3b-0d2a7e4c9204",
+    "version": 1.5,
+    "translucent": false,
+    "doubleSided": true,
+    "castShadows": false,
+    "Stages": [
+      {
+        "baseColorMap": "/art/shapes/gtaBridge/hole4.png",
+        "roughnessFactor": 0.9,
+        "metallicFactor": 0.0
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaTest": false,
+    "alphaRef": 90
+  },
+  "gtaHole5": {
+    "name": "gtaHole5",
+    "mapTo": "gtaHole5",
+    "class": "Material",
+    "persistentId": "7c1f6a52-5b0e-4a63-9f3b-0d2a7e4c9205",
+    "version": 1.5,
+    "translucent": false,
+    "doubleSided": true,
+    "castShadows": false,
+    "Stages": [
+      {
+        "baseColorMap": "/art/shapes/gtaBridge/hole5.png",
+        "roughnessFactor": 0.9,
+        "metallicFactor": 0.0
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaTest": false,
+    "alphaRef": 90
+  },
+  "gtaHole6": {
+    "name": "gtaHole6",
+    "mapTo": "gtaHole6",
+    "class": "Material",
+    "persistentId": "7c1f6a52-5b0e-4a63-9f3b-0d2a7e4c9206",
+    "version": 1.5,
+    "translucent": false,
+    "doubleSided": true,
+    "castShadows": false,
+    "Stages": [
+      {
+        "baseColorMap": "/art/shapes/gtaBridge/hole6.png",
+        "roughnessFactor": 0.9,
+        "metallicFactor": 0.0
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaTest": false,
+    "alphaRef": 90
+  },
+  "gtaHole7": {
+    "name": "gtaHole7",
+    "mapTo": "gtaHole7",
+    "class": "Material",
+    "persistentId": "7c1f6a52-5b0e-4a63-9f3b-0d2a7e4c9207",
+    "version": 1.5,
+    "translucent": false,
+    "doubleSided": true,
+    "castShadows": false,
+    "Stages": [
+      {
+        "baseColorMap": "/art/shapes/gtaBridge/hole7.png",
+        "roughnessFactor": 0.9,
+        "metallicFactor": 0.0
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaTest": false,
+    "alphaRef": 90
+  },
+  "gtaHole8": {
+    "name": "gtaHole8",
+    "mapTo": "gtaHole8",
+    "class": "Material",
+    "persistentId": "7c1f6a52-5b0e-4a63-9f3b-0d2a7e4c9208",
+    "version": 1.5,
+    "translucent": false,
+    "doubleSided": true,
+    "castShadows": false,
+    "Stages": [
+      {
+        "baseColorMap": "/art/shapes/gtaBridge/hole8.png",
+        "roughnessFactor": 0.9,
+        "metallicFactor": 0.0
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaTest": false,
+    "alphaRef": 90
+  },
+  "gtaHole9": {
+    "name": "gtaHole9",
+    "mapTo": "gtaHole9",
+    "class": "Material",
+    "persistentId": "7c1f6a52-5b0e-4a63-9f3b-0d2a7e4c9209",
+    "version": 1.5,
+    "translucent": false,
+    "doubleSided": true,
+    "castShadows": false,
+    "Stages": [
+      {
+        "baseColorMap": "/art/shapes/gtaBridge/hole9.png",
+        "roughnessFactor": 0.9,
+        "metallicFactor": 0.0
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaTest": false,
+    "alphaRef": 90
+  },
+  "gtaHole10": {
+    "name": "gtaHole10",
+    "mapTo": "gtaHole10",
+    "class": "Material",
+    "persistentId": "7c1f6a52-5b0e-4a63-9f3b-0d2a7e4c920a",
+    "version": 1.5,
+    "translucent": false,
+    "doubleSided": true,
+    "castShadows": false,
+    "Stages": [
+      {
+        "baseColorMap": "/art/shapes/gtaBridge/hole10.png",
+        "roughnessFactor": 0.9,
+        "metallicFactor": 0.0
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaTest": false,
+    "alphaRef": 90
+  },
+  "gtaHole11": {
+    "name": "gtaHole11",
+    "mapTo": "gtaHole11",
+    "class": "Material",
+    "persistentId": "7c1f6a52-5b0e-4a63-9f3b-0d2a7e4c920b",
+    "version": 1.5,
+    "translucent": false,
+    "doubleSided": true,
+    "castShadows": false,
+    "Stages": [
+      {
+        "baseColorMap": "/art/shapes/gtaBridge/hole11.png",
+        "roughnessFactor": 0.9,
+        "metallicFactor": 0.0
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaTest": false,
+    "alphaRef": 90
+  },
+  "gtaHole12": {
+    "name": "gtaHole12",
+    "mapTo": "gtaHole12",
+    "class": "Material",
+    "persistentId": "7c1f6a52-5b0e-4a63-9f3b-0d2a7e4c920c",
+    "version": 1.5,
+    "translucent": false,
+    "doubleSided": true,
+    "castShadows": false,
+    "Stages": [
+      {
+        "baseColorMap": "/art/shapes/gtaBridge/hole12.png",
+        "roughnessFactor": 0.9,
+        "metallicFactor": 0.0
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaTest": false,
+    "alphaRef": 90
+  },
+  "gtaHole13": {
+    "name": "gtaHole13",
+    "mapTo": "gtaHole13",
+    "class": "Material",
+    "persistentId": "7c1f6a52-5b0e-4a63-9f3b-0d2a7e4c920d",
+    "version": 1.5,
+    "translucent": false,
+    "doubleSided": true,
+    "castShadows": false,
+    "Stages": [
+      {
+        "baseColorMap": "/art/shapes/gtaBridge/hole13.png",
+        "roughnessFactor": 0.9,
+        "metallicFactor": 0.0
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaTest": false,
+    "alphaRef": 90
+  },
+  "gtaHole14": {
+    "name": "gtaHole14",
+    "mapTo": "gtaHole14",
+    "class": "Material",
+    "persistentId": "7c1f6a52-5b0e-4a63-9f3b-0d2a7e4c920e",
+    "version": 1.5,
+    "translucent": false,
+    "doubleSided": true,
+    "castShadows": false,
+    "Stages": [
+      {
+        "baseColorMap": "/art/shapes/gtaBridge/hole14.png",
+        "roughnessFactor": 0.9,
+        "metallicFactor": 0.0
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaTest": false,
+    "alphaRef": 90
+  },
+  "gtaHole15": {
+    "name": "gtaHole15",
+    "mapTo": "gtaHole15",
+    "class": "Material",
+    "persistentId": "7c1f6a52-5b0e-4a63-9f3b-0d2a7e4c920f",
+    "version": 1.5,
+    "translucent": false,
+    "doubleSided": true,
+    "castShadows": false,
+    "Stages": [
+      {
+        "baseColorMap": "/art/shapes/gtaBridge/hole15.png",
+        "roughnessFactor": 0.9,
+        "metallicFactor": 0.0
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaTest": false,
+    "alphaRef": 90
+  }
+}
